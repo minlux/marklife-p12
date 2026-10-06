@@ -117,12 +117,12 @@ Die App gibt es hier (Links aus den QR-Codes der Anleitung):
 
 Für `p12print` wird die App nicht benötigt.
 
-![Kurzanleitung des P12: Bedienelemente, Einlegen des Bandes, Kalibrierung](doc/intro.jpg)
-
 <p>
   <img src="doc/cover.jpg" alt="Handbuch-Cover des P12" height="400">
   <img src="doc/spec.jpg" alt="Technische Daten des P12" height="400">
 </p>
+
+![Kurzanleitung des P12: Bedienelemente, Einlegen des Bandes, Kalibrierung](doc/intro.jpg)
 
 ## Protokoll
 
