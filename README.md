@@ -1,5 +1,7 @@
 # p12print – Marklife P12 per USB ansteuern
 
+![Marklife P12 mit gedrucktem Label „It works“](doc/it-works.jpg)
+
 Kleines Python-CLI-Tool, das Text auf einem **Marklife P12** Thermo-Labeldrucker
 ausdruckt – über USB statt Bluetooth. Der Drucker meldet sich unter Linux als
 USB-Printer-Class-Gerät (`09c7:0011`) an, der Kernel-Treiber `usblp` stellt ihn
@@ -100,6 +102,18 @@ jede Zeile etwas größer.
 
 > **Achtung:** `--gap` auf Endlosband führt dazu, dass der Drucker nach einer
 > Lücke sucht, die es nicht gibt, und ca. 13 cm leeres Band ausgibt.
+
+## Gerät
+
+Der P12 (auch als „P12 Lavelle printer“ verkauft) ist eigentlich für den
+Betrieb per Bluetooth mit der Smartphone-App „Marklife“ gedacht. Laut
+Datenblatt: Thermodruck, 12 mm Druckbreite, 203 dpi, 15 mm/s, Endlos- und
+Etikettendruck (mit Lücken), Laden über USB-C.
+
+<p>
+  <img src="doc/cover.jpg" alt="Handbuch-Cover des P12" height="400">
+  <img src="doc/spec.jpg" alt="Technische Daten des P12" height="400">
+</p>
 
 ## Protokoll
 
