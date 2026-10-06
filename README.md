@@ -110,6 +110,15 @@ Betrieb per Bluetooth mit der Smartphone-App „Marklife“ gedacht. Laut
 Datenblatt: Thermodruck, 12 mm Druckbreite, 203 dpi, 15 mm/s, Endlos- und
 Etikettendruck (mit Lücken), Laden über USB-C.
 
+Die App gibt es hier (Links aus den QR-Codes der Anleitung):
+
+- iOS: [App Store](https://apps.apple.com/cn/app/%E5%8D%B0%E5%B0%8F%E7%AD%BE/id1540535142)
+- Android: [Google Play](https://play.google.com/store/apps/details?id=com.feioou.deliprint.yxq)
+
+Für `p12print` wird die App nicht benötigt.
+
+![Kurzanleitung des P12: Bedienelemente, Einlegen des Bandes, Kalibrierung](doc/intro.jpg)
+
 <p>
   <img src="doc/cover.jpg" alt="Handbuch-Cover des P12" height="400">
   <img src="doc/spec.jpg" alt="Technische Daten des P12" height="400">
